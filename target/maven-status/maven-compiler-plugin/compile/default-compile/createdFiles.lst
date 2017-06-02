@@ -1,0 +1,4 @@
+com/ifpb/dac/servlets/Listar.class
+com/ifpb/dac/controle/ClienteDAO.class
+com/ifpb/dac/entidades/Cliente.class
+com/ifpb/dac/controle/Conexao.class
